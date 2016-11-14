@@ -15,7 +15,7 @@
 
 --
 
-### Method
+### ~~Method~~
 1. Cook the macaroni according to the packet instructions and drain when cooked
 2. Heat the butter (or margarine) and when melted, add a generous tablespoon of plain flour and mix it in
 3. Add some black pepper and a little nutmeg or mustard powder - cook on a low heat, stirring all the time, for about 30-60 seconds
@@ -24,4 +24,3 @@
 6. Add the drained pasta to the cheese sauce and stir well
 7. Serve straight away or put into an oven proof dish, grate some more cheese over and bake at 180'C/Gas mark 5 for 10 minutes
 
---
