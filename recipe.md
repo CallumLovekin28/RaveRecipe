@@ -1,6 +1,6 @@
 # Recipe
 
---
+
 
 ### Ingredients
 
@@ -10,7 +10,9 @@
 - 450ml milk
 - cheddar cheese, grated
 - 1 tsp black pepper
-- 1 tsp mustard powde
+- 1 tsp mustard powder
+
+--
 
 ### Method
 1. Cook the macaroni according to the packet instructions and drain when cooked
@@ -20,3 +22,5 @@
 5. Bring to the boil, stirring all the time, to thicken the sauce, then add a big handful of grated cheddar cheese to make it a cheese sauce
 6. Add the drained pasta to the cheese sauce and stir well
 7. Serve straight away or put into an oven proof dish, grate some more cheese over and bake at 180'C/Gas mark 5 for 10 minutes
+
+--
